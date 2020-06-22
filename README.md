@@ -12,7 +12,7 @@ To start and run the local development server,
 
 1. Clone this repo:
     ```
-    $ git clone https://github.com/Philipotieno/Fyyur-App.git
+    $ git clone https://github.com/Rakeshwdintern/Fyuur
     ```
 
 2. Initialize and activate a virtualenv:
